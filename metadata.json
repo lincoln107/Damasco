@@ -1,0 +1,6 @@
+{
+  "name": "Camisetas Oversize Premium | Vendas Masculina & Feminina",
+  "description": "Loja de camisetas oversized para adultos masculinas e femininas. Compre pelo WhatsApp, Mercado Livre, Shopee, MagaLu ou visite nossa loja física.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
